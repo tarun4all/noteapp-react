@@ -1,0 +1,25 @@
+.banner {
+  color: gray;
+  object-fit: contain;
+  height: 650px;
+  background-color: whitesmoke;
+}
+
+.banner_contents {
+  margin-left: 30px;
+  padding-top: 40px;
+  height: 190px;
+}
+
+.banner_title {
+  font-size: 3rem;
+}
+
+.banner_buttons {
+  display: flex;
+  justify-content: space-between;
+}
+
+.histogram {
+  width: 60%;
+}
